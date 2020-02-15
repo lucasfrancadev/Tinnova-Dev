@@ -11,7 +11,7 @@ Execute yarn dev ou npm run dev. <br/>
 Utilize Postman ou Insomnia para fazer uma requisição POST.<br/>
 <br/>
 <strong>Exercício 1:</strong> 
-<p>Faça uma requisição POST utilizando o endereço localhost:3333/Exercise1 enviando no body JSON:</p> <br/>
+<p>Faça uma requisição POST utilizando o endereço localhost:3333/Exercise1 enviando no body JSON:</p>
 <pre><code>
 {
 	"totalEleitores": "1000",
@@ -22,7 +22,7 @@ Utilize Postman ou Insomnia para fazer uma requisição POST.<br/>
 </code></pre>
 <br/>
 <strong>Exercício 3:</strong> 
-<p>Faça uma requisição POST utilizando o endereço localhost:3333/Exercise1 enviando no body JSON:</p> <br/>
+<p>Faça uma requisição POST utilizando o endereço localhost:3333/Exercise1 enviando no body JSON:</p>
 <pre><code>
 {
 	"number": "6"
