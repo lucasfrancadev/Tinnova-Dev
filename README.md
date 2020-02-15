@@ -21,4 +21,4 @@ Utilize Postman ou Insomnia para fazer uma requisição POST.
 	"number": "6"
 }
 
-*Em ambos exercícios é possível mudar o valor das propriedade para receber um novo resultado.
+*Em ambos exercícios é possível mudar o valor das propriedades para receber um novo resultado.*
